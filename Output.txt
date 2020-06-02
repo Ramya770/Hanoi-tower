@@ -1,0 +1,31 @@
+Move disk 1 from rod  A to rd C 
+Move disk 2 from rod  A to_rod  E
+Move disk 1 from rod  B to rd A 
+Move disk 3 from rod  A to_rod  D
+Move disk 1 from rod  C to rd D 
+Move disk 2 from rod  C to_rod  A
+Move disk 1 from rod  B to rd C 
+Move disk 4 from rod  A to_rod  B
+Move disk 1 from rod  E to rd C 
+Move disk 2 from rod  E to_rod  B
+Move disk 1 from rod  D to rd E 
+Move disk 3 from rod  E to_rod  A
+Move disk 1 from rod  C to rd A 
+Move disk 2 from rod  C to_rod  E
+Move disk 1 from rod  D to rd C 
+Move disk 5 from rod  A to_rod  C
+Move disk 1 from rod  D to rd B 
+Move disk 2 from rod  D to_rod  E
+Move disk 1 from rod  A to rd D 
+Move disk 3 from rod  D to_rod  C
+Move disk 1 from rod  B to rd C 
+Move disk 2 from rod  B to_rod  D
+Move disk 1 from rod  A to rd B 
+Move disk 4 from rod  D to_rod  A
+Move disk 1 from rod  E to rd B 
+Move disk 2 from rod  E to_rod  A
+Move disk 1 from rod  C to rd E 
+Move disk 3 from rod  E to_rod  D
+Move disk 1 from rod  B to rd D 
+Move disk 2 from rod  B to_rod  E
+Move disk 1 from rod  C to rd B 
